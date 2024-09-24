@@ -26,3 +26,4 @@ C:\Users\Joseph Sarfo\Documents\sarfo\learning_c#\TestProject\obj\Debug\net8.0\r
 C:\Users\Joseph Sarfo\Documents\sarfo\learning_c#\TestProject\obj\Debug\net8.0\TestProject.pdb
 C:\Users\Joseph Sarfo\Documents\sarfo\learning_c#\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
 C:\Users\Joseph Sarfo\Documents\sarfo\learning_c#\TestProject\obj\Debug\net8.0\ref\TestProject.dll
+C:\Users\Joseph Sarfo\Documents\sarfo\learning_c#\TestProject\obj\Debug\net8.0\TestProject.sourcelink.json
