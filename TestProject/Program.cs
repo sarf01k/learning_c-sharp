@@ -1,6 +1,6 @@
-﻿/* Random dice = new Random();    // Random dice = new();
+﻿Random dice = new Random();    // Random dice = new();
 int roll = dice.Next(1, 7);    // upper bound is exclusive
-Console.Write(roll); */
+Console.Write(roll);
 
 
 /* int firstValue = 500;
